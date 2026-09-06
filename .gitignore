@@ -1,0 +1,35 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+venv/
+env/
+.venv/
+.idea/
+.vscode/
+*.sqlite3
+db.sqlite3
+
+# Django
+staticfiles/
+media/
+
+# AWS
+*.pem
+*.key
+credentials
+.aws/
+
+# OS
+.DS_Store
+Thumbs.db
+
